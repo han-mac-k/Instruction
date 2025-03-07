@@ -1,4 +1,4 @@
-# Projects can be viewed upon request / 요청이 있을시 프로젝트들을 공개할수 있습니다
+# Projects available upon request / 요청이 있을시 프로젝트들을 공개 가능합니다
 
 ## This repo is the overview of all the repositories / 이 리포는 모든 리포들에 관한 간단한 설명입니다
 
